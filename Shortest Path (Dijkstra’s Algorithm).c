@@ -72,7 +72,7 @@ int main()
     return 0;
 }
 
-Sample Output:
+Output:
 
 Enter number of vertices: 4
 Enter adjacency matrix (0 if no edge):

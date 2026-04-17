@@ -41,7 +41,7 @@ int main()
     return 0;
 }
 
-Sample Output:
+Output:
 Enter number of vertices: 4
 Enter capacity matrix:
 0 10 10 0

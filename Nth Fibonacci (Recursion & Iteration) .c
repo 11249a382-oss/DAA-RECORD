@@ -50,7 +50,7 @@ int main()
     return 0;
 }
 
-Sample Output:
+Output:
 Enter n: 6
 Recursive Fibonacci: 8
 Iterative Fibonacci: 8

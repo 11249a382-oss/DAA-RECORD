@@ -69,16 +69,4 @@ int main()
     return 0;
 }
 
-Sample Output:
-Enter number of items: 3
-Enter weight and profit of item 1: 10 60
-Enter weight and profit of item 2: 20 100
-Enter weight and profit of item 3: 30 120
-Enter knapsack capacity: 50
 
-Maximum profit = 240.00
-
-Result:
-
-The Fractional Knapsack problem was successfully solved using the greedy method. 
-Items were selected based on the highest profit-to-weight ratio, and the maximum possible profit was obtained.

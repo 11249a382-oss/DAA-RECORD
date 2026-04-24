@@ -71,12 +71,4 @@ int main()
 }
 
 
-OUTPUT:
 
-Element found @ position 537
-Total time taken: 0.000002
-
-RESULT:
-The program performs linear search using recursion.
-It finds the given element in the array and displays its position if found, otherwise prints "Element not found".
-The execution time is also calculated.

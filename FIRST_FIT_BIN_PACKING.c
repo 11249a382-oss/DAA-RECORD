@@ -51,24 +51,3 @@ int main()
     return 0;
 }
 
-Sample Output:
-Enter number of items: 5
-Enter bin capacity: 10
-Enter size of item 1: 2
-Enter size of item 2: 5
-Enter size of item 3: 4
-Enter size of item 4: 7
-Enter size of item 5: 1
-
-Remaining space in bins:
-Bin 1: 3.00
-Bin 2: 3.00
-Bin 3: 6.00
-Bin 4: 10.00
-Bin 5: 10.00
-
-Result:
-
-The First Fit Bin Packing algorithm was successfully implemented. 
-The items were placed into bins sequentially based on availability, 
-and the remaining capacity of each bin was displayed.

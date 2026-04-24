@@ -41,16 +41,7 @@ int main()
     return 0;
 }
 
-Output:
-Enter number of vertices: 4
-Enter capacity matrix:
-0 10 10 0
-0 0 5 10
-0 0 0 10
-0 0 0 0
-Enter source and sink: 0 3
 
-Maximum flow: 20
   
 Result:
 

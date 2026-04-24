@@ -73,16 +73,4 @@ int main()
     return 0;
 }
 
-Sample Output:
-Enter the number of items: 3
-Enter the weights:
-10 20 30
-Enter the profits:
-60 100 120
-Enter the capacity: 50
-Maximum profit = 240.00
 
-Result:
-
-The Fractional Knapsack problem was successfully implemented using the greedy approach. 
-Items were selected based on the highest unit profit, and the maximum profit was obtained.

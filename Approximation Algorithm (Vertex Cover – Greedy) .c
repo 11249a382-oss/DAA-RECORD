@@ -38,18 +38,3 @@ int main() {
     return 0; 
 }
 
-INPUT:
-Enter number of vertices: 4
-Enter adjacency matrix:
-0 1 1 0
-1 0 1 1
-1 1 0 0
-0 1 0 0
-OUTPUT:
-Vertex Cover:
-0 1
-2 3
-
-RESULT:
-The program finds the vertex cover of a graph using a greedy approximation method.
-It selects vertex pairs to cover all edges and displays the result.
